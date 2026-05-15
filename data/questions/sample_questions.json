@@ -1,0 +1,562 @@
+[
+  {
+    "source": "sample",
+    "section": "ENGLISH",
+    "number": 1,
+    "stem": "The committee has been meeting every Tuesday, but they has yet to reach a decision on the budget proposal.",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "they have",
+      "C": "it has",
+      "D": "it have"
+    },
+    "correct_answer": "B",
+    "explanation": "The pronoun 'they' refers to 'the committee' (treated as plural in context) and requires the plural verb 'have'."
+  },
+  {
+    "source": "sample",
+    "section": "ENGLISH",
+    "number": 2,
+    "stem": "Running through the park, the leaves crunched loudly beneath her feet.",
+    "choices": {
+      "F": "NO CHANGE",
+      "G": "The leaves crunched loudly beneath her feet, running through the park.",
+      "H": "As she ran through the park, the leaves crunched loudly beneath her feet.",
+      "J": "The leaves, running through the park, crunched loudly beneath her feet."
+    },
+    "correct_answer": "H",
+    "explanation": "The original sentence is a dangling modifier — the leaves weren't running. Option H correctly identifies the subject performing the action."
+  },
+  {
+    "source": "sample",
+    "section": "ENGLISH",
+    "number": 3,
+    "stem": "Despite the storm warnings, the hikers decided to press on; their confidence, however, would soon prove to be misplaced.",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "press on, their confidence",
+      "C": "press on their confidence,",
+      "D": "press on: their confidence"
+    },
+    "correct_answer": "A",
+    "explanation": "The semicolon correctly joins two independent clauses. The other options create comma splices or incorrect punctuation."
+  },
+  {
+    "source": "sample",
+    "section": "ENGLISH",
+    "number": 4,
+    "stem": "The scientist's groundbreaking research, which took over a decade to complete, have revolutionized our understanding of neural plasticity.",
+    "choices": {
+      "F": "NO CHANGE",
+      "G": "has revolutionized",
+      "H": "are revolutionizing",
+      "J": "revolutionize"
+    },
+    "correct_answer": "G",
+    "explanation": "The subject is 'research' (singular), so the verb must be singular: 'has revolutionized.' The relative clause 'which took over a decade to complete' does not change the subject."
+  },
+  {
+    "source": "sample",
+    "section": "ENGLISH",
+    "number": 5,
+    "stem": "The author, along with her editors, spend countless hours refining the manuscript before its final submission.",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "spends",
+      "C": "are spending",
+      "D": "have spent"
+    },
+    "correct_answer": "B",
+    "explanation": "'Along with her editors' is a parenthetical phrase; the true subject is 'the author' (singular), requiring 'spends.'"
+  },
+  {
+    "source": "sample",
+    "section": "ENGLISH",
+    "number": 6,
+    "stem": "After years of neglect, the once-vibrant neighborhood began to show signs of revitalization: new businesses opened, residents planted gardens, and murals appeared on formerly blank walls.",
+    "choices": {
+      "F": "NO CHANGE",
+      "G": "revitalization, new businesses opened",
+      "H": "revitalization; new businesses opened,",
+      "J": "revitalization. New businesses opened,"
+    },
+    "correct_answer": "F",
+    "explanation": "The colon is correctly used here to introduce a list of specific examples that illustrate the preceding claim."
+  },
+  {
+    "source": "sample",
+    "section": "ENGLISH",
+    "number": 7,
+    "stem": "The report concluded that the new policy would effect significant changes in how schools allocate their resources.",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "affect significant changes",
+      "C": "effect significant change's",
+      "D": "affect significantly changed"
+    },
+    "correct_answer": "B",
+    "explanation": "'Affect' is a verb meaning to influence or produce a change. 'Effect' as a verb means to bring about, but 'affect' is correct in this context meaning to influence the allocation."
+  },
+  {
+    "source": "sample",
+    "section": "ENGLISH",
+    "number": 8,
+    "stem": "Marcus had studied diligently for weeks; therefore, he felt a calm sense of preparedness when he sat down to take the exam.",
+    "choices": {
+      "F": "NO CHANGE",
+      "G": "weeks, therefore he felt",
+      "H": "weeks therefore, he felt",
+      "J": "weeks, therefore, he felt"
+    },
+    "correct_answer": "F",
+    "explanation": "A semicolon before a conjunctive adverb like 'therefore' is correct when joining two independent clauses. The comma after 'therefore' is also standard."
+  },
+  {
+    "source": "sample",
+    "section": "ENGLISH",
+    "number": 9,
+    "stem": "The two candidates' platforms differed in there approach to healthcare funding.",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "their approach",
+      "C": "they're approach",
+      "D": "its approach"
+    },
+    "correct_answer": "B",
+    "explanation": "'Their' is the possessive pronoun needed here. 'There' refers to a place, and 'they're' is a contraction of 'they are.'"
+  },
+  {
+    "source": "sample",
+    "section": "ENGLISH",
+    "number": 10,
+    "stem": "In the 1960s, the civil rights movement, gaining momentum across the South and energized by a new generation of activists, demanding an end to systemic racial inequality.",
+    "choices": {
+      "F": "NO CHANGE",
+      "G": "demanded",
+      "H": "would demand",
+      "J": "demands"
+    },
+    "correct_answer": "G",
+    "explanation": "The sentence lacks a main verb. 'Demanded' makes 'the civil rights movement' the subject performing an action, creating a complete sentence."
+  },
+  {
+    "source": "sample",
+    "section": "MATHEMATICS",
+    "number": 1,
+    "stem": "If 3x + 7 = 22, what is the value of 6x − 4?",
+    "choices": {
+      "A": "5",
+      "B": "26",
+      "C": "30",
+      "D": "34"
+    },
+    "correct_answer": "B",
+    "explanation": "Solve for x: 3x = 15, so x = 5. Then 6(5) − 4 = 30 − 4 = 26."
+  },
+  {
+    "source": "sample",
+    "section": "MATHEMATICS",
+    "number": 2,
+    "stem": "A circle has an area of 49π square units. What is its circumference?",
+    "choices": {
+      "F": "7π",
+      "G": "14π",
+      "H": "28π",
+      "J": "49π"
+    },
+    "correct_answer": "G",
+    "explanation": "Area = πr² = 49π, so r = 7. Circumference = 2πr = 2π(7) = 14π."
+  },
+  {
+    "source": "sample",
+    "section": "MATHEMATICS",
+    "number": 3,
+    "stem": "What is the slope of a line that passes through the points (−2, 5) and (4, −1)?",
+    "choices": {
+      "A": "−1",
+      "B": "1",
+      "C": "2/3",
+      "D": "−2/3"
+    },
+    "correct_answer": "A",
+    "explanation": "Slope = (y₂ − y₁)/(x₂ − x₁) = (−1 − 5)/(4 − (−2)) = −6/6 = −1."
+  },
+  {
+    "source": "sample",
+    "section": "MATHEMATICS",
+    "number": 4,
+    "stem": "If f(x) = 2x² − 3x + 1, what is f(−2)?",
+    "choices": {
+      "F": "3",
+      "G": "11",
+      "H": "15",
+      "J": "−9"
+    },
+    "correct_answer": "H",
+    "explanation": "f(−2) = 2(−2)² − 3(−2) + 1 = 2(4) + 6 + 1 = 8 + 6 + 1 = 15."
+  },
+  {
+    "source": "sample",
+    "section": "MATHEMATICS",
+    "number": 5,
+    "stem": "A bag contains 4 red marbles, 6 blue marbles, and 2 green marbles. If one marble is drawn at random, what is the probability that it is NOT blue?",
+    "choices": {
+      "A": "1/2",
+      "B": "1/3",
+      "C": "2/3",
+      "D": "1/6"
+    },
+    "correct_answer": "A",
+    "explanation": "There are 12 total marbles, 6 of which are blue, so 6 are not blue. P(not blue) = 6/12 = 1/2."
+  },
+  {
+    "source": "sample",
+    "section": "MATHEMATICS",
+    "number": 6,
+    "stem": "A rectangle has a length that is 3 more than twice its width. If the perimeter is 48, what is the width?",
+    "choices": {
+      "F": "7",
+      "G": "8",
+      "H": "9",
+      "J": "17"
+    },
+    "correct_answer": "F",
+    "explanation": "Let width = w, length = 2w + 3. Perimeter: 2(w + 2w + 3) = 48 → 2(3w + 3) = 48 → 6w + 6 = 48 → 6w = 42 → w = 7."
+  },
+  {
+    "source": "sample",
+    "section": "MATHEMATICS",
+    "number": 7,
+    "stem": "Which of the following is equivalent to (x² − 9)/(x − 3) for x ≠ 3?",
+    "choices": {
+      "A": "x − 3",
+      "B": "x + 3",
+      "C": "x² + 3",
+      "D": "x + 9"
+    },
+    "correct_answer": "B",
+    "explanation": "Factor the numerator: x² − 9 = (x − 3)(x + 3). Dividing by (x − 3) gives x + 3."
+  },
+  {
+    "source": "sample",
+    "section": "MATHEMATICS",
+    "number": 8,
+    "stem": "In a right triangle, one leg is 8 and the hypotenuse is 17. What is the length of the other leg?",
+    "choices": {
+      "F": "9",
+      "G": "12",
+      "H": "15",
+      "J": "25"
+    },
+    "correct_answer": "H",
+    "explanation": "Using the Pythagorean theorem: a² + 8² = 17² → a² + 64 = 289 → a² = 225 → a = 15."
+  },
+  {
+    "source": "sample",
+    "section": "MATHEMATICS",
+    "number": 9,
+    "stem": "What is the value of |−7| + |3 − 10|?",
+    "choices": {
+      "A": "0",
+      "B": "3",
+      "C": "14",
+      "D": "−14"
+    },
+    "correct_answer": "C",
+    "explanation": "|−7| = 7 and |3 − 10| = |−7| = 7. So 7 + 7 = 14."
+  },
+  {
+    "source": "sample",
+    "section": "MATHEMATICS",
+    "number": 10,
+    "stem": "A line has the equation 4x − 2y = 12. What is its y-intercept?",
+    "choices": {
+      "F": "−6",
+      "G": "6",
+      "H": "3",
+      "J": "−3"
+    },
+    "correct_answer": "F",
+    "explanation": "Rewrite in slope-intercept form: −2y = −4x + 12 → y = 2x − 6. The y-intercept is −6."
+  },
+  {
+    "source": "sample",
+    "section": "READING",
+    "number": 1,
+    "stem": "Based on the passage, the author's primary purpose is best described as which of the following?\n\n(Passage excerpt: 'The decline of bee populations worldwide is not merely an ecological concern but an economic one. Roughly one-third of the food humans consume depends on pollination, most of it done by bees. Without intervention, global crop yields could fall by as much as 90 percent in some categories.')",
+    "choices": {
+      "A": "To argue that bees are more economically valuable than ecologically valuable",
+      "B": "To warn readers about the broad consequences of declining bee populations",
+      "C": "To propose specific solutions for reversing bee population decline",
+      "D": "To compare different pollinator species and their relative effectiveness"
+    },
+    "correct_answer": "B",
+    "explanation": "The passage focuses on describing the wide-reaching economic and ecological impacts of bee decline, making B the best summary of the author's purpose."
+  },
+  {
+    "source": "sample",
+    "section": "READING",
+    "number": 2,
+    "stem": "Read the following passage and answer the question.\n\n'Although Zora Neale Hurston published four novels and more than fifty short stories, she died in poverty and was buried in an unmarked grave. It was not until Alice Walker's 1975 essay in Ms. Magazine that Hurston's work was rediscovered, bringing her the recognition she deserved.'\n\nAccording to the passage, what was the result of Alice Walker's essay?",
+    "choices": {
+      "F": "Hurston received a formal literary award.",
+      "G": "Hurston's grave was given a proper marker.",
+      "H": "Hurston's work gained the recognition it deserved.",
+      "J": "Hurston published additional short stories."
+    },
+    "correct_answer": "H",
+    "explanation": "The passage directly states that Walker's essay brought Hurston 'the recognition she deserved.' The other options are not mentioned."
+  },
+  {
+    "source": "sample",
+    "section": "READING",
+    "number": 3,
+    "stem": "Read the following passage and answer the question.\n\n'The Mars rovers have fundamentally altered our conception of the red planet. Where once scientists imagined a barren, unchanging wasteland, we now know Mars has a complex geological history, including ancient river valleys, volcanic plains, and evidence of past liquid water.'\n\nAs used in this passage, the word 'barren' most nearly means:",
+    "choices": {
+      "A": "Distant and unreachable",
+      "B": "Cold and inhospitable",
+      "C": "Lacking life or vegetation",
+      "D": "Scientifically uninteresting"
+    },
+    "correct_answer": "C",
+    "explanation": "'Barren' means devoid of life or vegetation. The context contrasts a 'barren wasteland' with the complex and dynamic planet the rovers revealed."
+  },
+  {
+    "source": "sample",
+    "section": "READING",
+    "number": 4,
+    "stem": "Read the passage and answer the question.\n\n'Jazz emerged in New Orleans in the early twentieth century as a fusion of blues, ragtime, and African musical traditions. It was inherently democratic — anyone with an instrument could participate — and it spread rapidly through the country as musicians traveled north to cities like Chicago and New York.'\n\nWhich of the following best describes the author's attitude toward jazz?",
+    "choices": {
+      "F": "Skeptical of its cultural significance",
+      "G": "Admiring of its inclusive and dynamic nature",
+      "H": "Critical of how it was commercialized",
+      "J": "Neutral and purely factual"
+    },
+    "correct_answer": "G",
+    "explanation": "The author describes jazz as 'inherently democratic' and traces its rapid spread with enthusiasm, suggesting admiration for its inclusive character."
+  },
+  {
+    "source": "sample",
+    "section": "READING",
+    "number": 5,
+    "stem": "Read the passage and answer the question.\n\n'Maria had always assumed that leaving her small town would mean leaving behind everything she valued. But standing now in the middle of the city, surrounded by the hum of ten thousand strangers, she felt not alienated but oddly at home — as though she had always been a person the city had been waiting for.'\n\nThe passage most strongly suggests that Maria feels:",
+    "choices": {
+      "A": "Regret about leaving her hometown",
+      "B": "Surprised by an unexpected sense of belonging",
+      "C": "Anxious about the noise of city life",
+      "D": "Proud of her decision to move away"
+    },
+    "correct_answer": "B",
+    "explanation": "Maria expected to feel alienated ('leaving behind everything she valued') but instead felt 'oddly at home,' indicating surprise at an unexpected sense of belonging."
+  },
+  {
+    "source": "sample",
+    "section": "READING",
+    "number": 6,
+    "stem": "Read the passage and answer the question.\n\n'The Enlightenment philosophers argued that reason, not tradition or religious authority, should be the foundation of knowledge. Thinkers like Locke and Voltaire championed individual rights and the power of rational inquiry, laying the intellectual groundwork for modern democratic governments.'\n\nAccording to the passage, Enlightenment thinkers believed that knowledge should be based on:",
+    "choices": {
+      "F": "Religious scripture and tradition",
+      "G": "The authority of established governments",
+      "H": "Reason and rational inquiry",
+      "J": "The collective wisdom of communities"
+    },
+    "correct_answer": "H",
+    "explanation": "The passage explicitly states that Enlightenment philosophers argued 'reason, not tradition or religious authority, should be the foundation of knowledge.'"
+  },
+  {
+    "source": "sample",
+    "section": "READING",
+    "number": 7,
+    "stem": "Read the passage and answer the question.\n\n'Despite its reputation as a solitary pursuit, writing is deeply collaborative. Editors shape manuscripts, agents advocate for authors, and readers ultimately complete the meaning of a text by bringing their own interpretations to it. The lone genius scribbling in an attic is more myth than reality.'\n\nThe author's use of 'lone genius scribbling in an attic' is best described as:",
+    "choices": {
+      "A": "A literal description of how most authors work",
+      "B": "A stereotype the author wishes to debunk",
+      "C": "An ideal the author believes writers should aspire to",
+      "D": "A reference to a specific famous author"
+    },
+    "correct_answer": "B",
+    "explanation": "The author calls this image 'more myth than reality,' indicating it's a misconception being challenged, not endorsed."
+  },
+  {
+    "source": "sample",
+    "section": "READING",
+    "number": 8,
+    "stem": "Read the passage and answer the question.\n\n'In her later years, the artist largely abandoned the vivid colors of her youth. Her canvases became dominated by grays and muted browns, a palette critics interpreted as reflecting her increasing disillusionment with public life. She herself, however, insisted the shift was purely aesthetic.'\n\nThe passage presents a conflict between:",
+    "choices": {
+      "F": "The artist's early and late techniques",
+      "G": "Critics' interpretation and the artist's own explanation",
+      "H": "The artist's public persona and private beliefs",
+      "J": "Two competing schools of art criticism"
+    },
+    "correct_answer": "G",
+    "explanation": "Critics attributed her muted palette to disillusionment; the artist disagreed, calling the shift 'purely aesthetic.' This is a direct conflict between two interpretations."
+  },
+  {
+    "source": "sample",
+    "section": "READING",
+    "number": 9,
+    "stem": "Read the passage and answer the question.\n\n'When the first railroads were built across the American West, they were celebrated as symbols of progress. Yet for Native American tribes whose lands were crossed without consent, the railroad represented something else entirely — a mechanism of displacement and cultural erasure.'\n\nThe word 'displacement' as used in this passage most nearly means:",
+    "choices": {
+      "A": "Physical removal from one's homeland",
+      "B": "Technological advancement",
+      "C": "Political representation",
+      "D": "Economic opportunity"
+    },
+    "correct_answer": "A",
+    "explanation": "In context, displacement refers to Native Americans being forced from their lands. The passage frames the railroad as harmful to these communities, consistent with the idea of forced removal."
+  },
+  {
+    "source": "sample",
+    "section": "READING",
+    "number": 10,
+    "stem": "Read the passage and answer the question.\n\n'Sleep deprivation is often treated as a badge of honor in modern professional culture — the executive who sleeps four hours boasts about it, equating less sleep with greater productivity. But research consistently shows the opposite: sleep-deprived individuals perform worse on cognitive tasks, make riskier decisions, and experience impaired emotional regulation.'\n\nThe author would most likely agree with which of the following statements?",
+    "choices": {
+      "F": "Successful people require less sleep than average.",
+      "G": "The cultural glorification of sleep deprivation is misguided.",
+      "H": "Sleep research is still too inconclusive to draw firm conclusions.",
+      "J": "Productivity and sleep are unrelated variables."
+    },
+    "correct_answer": "G",
+    "explanation": "The author contrasts the cultural glorification of sleep deprivation with research showing it is harmful, implying the glorification is misguided."
+  },
+  {
+    "source": "sample",
+    "section": "SCIENCE",
+    "number": 1,
+    "stem": "A student measured the pH of four solutions: Solution A (pH 2), Solution B (pH 6), Solution C (pH 8), and Solution D (pH 13). Which solution is most basic?",
+    "choices": {
+      "A": "Solution A",
+      "B": "Solution B",
+      "C": "Solution C",
+      "D": "Solution D"
+    },
+    "correct_answer": "D",
+    "explanation": "On the pH scale, higher values indicate greater basicity. pH 13 is the highest value listed, making Solution D the most basic."
+  },
+  {
+    "source": "sample",
+    "section": "SCIENCE",
+    "number": 2,
+    "stem": "A scientist measured the growth of bacteria in two conditions. In Condition 1 (no antibiotics), the colony grew from 100 to 6,400 cells in 4 hours. In Condition 2 (with antibiotics), the colony grew from 100 to 200 cells in the same period. Which conclusion is best supported by this data?",
+    "choices": {
+      "F": "Antibiotics eliminated the bacteria completely.",
+      "G": "Bacteria cannot survive in the presence of antibiotics.",
+      "H": "The antibiotic reduced but did not stop bacterial growth.",
+      "J": "The antibiotic had no measurable effect on growth."
+    },
+    "correct_answer": "H",
+    "explanation": "In Condition 2, bacteria still doubled (100 to 200), so they were not eliminated. However, growth was drastically slower than Condition 1 (6,400 cells), indicating partial suppression."
+  },
+  {
+    "source": "sample",
+    "section": "SCIENCE",
+    "number": 3,
+    "stem": "A table shows the boiling points of four substances: Substance W (54°C), Substance X (78°C), Substance Y (100°C), Substance Z (117°C). A student heats a mixture of all four substances. At 90°C, which substances have already boiled off?",
+    "choices": {
+      "A": "W only",
+      "B": "W and X",
+      "C": "W, X, and Y",
+      "D": "X, Y, and Z"
+    },
+    "correct_answer": "B",
+    "explanation": "At 90°C, any substance with a boiling point below 90°C will have vaporized. W (54°C) and X (78°C) have both boiled; Y (100°C) and Z (117°C) have not yet reached their boiling points."
+  },
+  {
+    "source": "sample",
+    "section": "SCIENCE",
+    "number": 4,
+    "stem": "Two scientists debate the cause of a species' sudden population decline. Scientist 1 argues it is due to habitat loss. Scientist 2 argues it is due to an introduced predator. Which experimental evidence would most directly support Scientist 2's hypothesis?",
+    "choices": {
+      "F": "Satellite images showing a 30% reduction in the species' native forest",
+      "G": "Field surveys showing the predator's range overlaps entirely with the decline area",
+      "H": "A study showing the species can adapt to fragmented habitats",
+      "J": "Data showing the population began declining before the predator arrived"
+    },
+    "correct_answer": "G",
+    "explanation": "If the predator's range overlaps with the area of population decline, it directly supports the hypothesis that the predator is responsible. Option J would actually weaken Scientist 2's position."
+  },
+  {
+    "source": "sample",
+    "section": "SCIENCE",
+    "number": 5,
+    "stem": "A graph shows the relationship between enzyme activity (y-axis) and temperature (x-axis). Activity rises from 0°C to a peak at 37°C, then drops sharply to near zero at 50°C. Which statement best explains the sharp drop above 37°C?",
+    "choices": {
+      "A": "The enzyme runs out of substrate at higher temperatures.",
+      "B": "Heat denatures the enzyme, changing its shape.",
+      "C": "The reaction becomes exothermic at high temperatures.",
+      "D": "Higher temperatures decrease the speed of molecular collisions."
+    },
+    "correct_answer": "B",
+    "explanation": "Enzymes are proteins whose function depends on their three-dimensional shape. High temperatures break the bonds maintaining this shape (denaturation), destroying enzyme function."
+  },
+  {
+    "source": "sample",
+    "section": "SCIENCE",
+    "number": 6,
+    "stem": "A researcher tests four fertilizer concentrations on plant growth over 8 weeks:\n• 0 g/L: 12 cm\n• 2 g/L: 21 cm\n• 4 g/L: 27 cm\n• 8 g/L: 18 cm\n\nWhich conclusion is best supported by this data?",
+    "choices": {
+      "F": "Higher fertilizer concentration always increases plant growth.",
+      "G": "Fertilizer has no consistent effect on plant growth.",
+      "H": "There is an optimal fertilizer concentration beyond which growth declines.",
+      "J": "Plants grow tallest when no fertilizer is applied."
+    },
+    "correct_answer": "H",
+    "explanation": "Growth peaks at 4 g/L then declines at 8 g/L, indicating an optimal concentration exists. This is consistent with fertilizer toxicity at high concentrations."
+  },
+  {
+    "source": "sample",
+    "section": "SCIENCE",
+    "number": 7,
+    "stem": "A student drops a ball from heights of 0.5 m, 1.0 m, 1.5 m, and 2.0 m and records its bounce height. The data shows bounce height is consistently about 60% of the drop height. If the ball is dropped from 2.5 m, what bounce height should the student predict?",
+    "choices": {
+      "A": "1.0 m",
+      "B": "1.25 m",
+      "C": "1.5 m",
+      "D": "2.0 m"
+    },
+    "correct_answer": "C",
+    "explanation": "Applying the 60% pattern: 2.5 m × 0.60 = 1.5 m. This is a straightforward extrapolation from the observed trend."
+  },
+  {
+    "source": "sample",
+    "section": "SCIENCE",
+    "number": 8,
+    "stem": "A study examines how sunlight exposure affects vitamin D levels in adults. Group 1 spends 30 minutes per day outdoors; Group 2 spends 0 minutes outdoors. Both groups are given identical diets. Group 1 has significantly higher vitamin D levels after 12 weeks. What is the purpose of controlling the diet?",
+    "choices": {
+      "F": "To ensure both groups absorb the same amount of sunlight",
+      "G": "To eliminate diet as a confounding variable",
+      "H": "To test whether diet alone can raise vitamin D levels",
+      "J": "To reduce the cost of the experiment"
+    },
+    "correct_answer": "G",
+    "explanation": "By keeping diet identical, the researchers isolate sunlight as the only variable that differs between groups, ensuring that any difference in vitamin D levels can be attributed to sun exposure alone."
+  },
+  {
+    "source": "sample",
+    "section": "SCIENCE",
+    "number": 9,
+    "stem": "The half-life of Carbon-14 is approximately 5,730 years. A fossil bone originally contained 1,600 atoms of C-14. How many atoms of C-14 remain after 17,190 years?",
+    "choices": {
+      "A": "800",
+      "B": "400",
+      "C": "200",
+      "D": "100"
+    },
+    "correct_answer": "C",
+    "explanation": "17,190 ÷ 5,730 = 3 half-lives. After each half-life: 1,600 → 800 → 400 → 200. After 3 half-lives, 200 atoms remain."
+  },
+  {
+    "source": "sample",
+    "section": "SCIENCE",
+    "number": 10,
+    "stem": "Two experiments test water quality in a lake. Experiment 1 measures dissolved oxygen (DO) levels monthly for one year. Experiment 2 measures nitrate concentrations weekly after rainstorms. A scientist notices DO levels drop sharply in summer. Which additional data would best help explain this observation?",
+    "choices": {
+      "F": "Nitrate concentrations in winter",
+      "G": "Water temperature and algae bloom data in summer",
+      "H": "Rainfall totals from the previous five years",
+      "J": "DO levels from a different lake in the same region"
+    },
+    "correct_answer": "G",
+    "explanation": "Dissolved oxygen drops in warm water, and algae blooms (often triggered by high nutrients) further deplete oxygen as they decompose. Temperature and algae data would directly help explain the summer drop."
+  }
+]
